@@ -1,5 +1,5 @@
 
-package hackerrank.moraxtreme.easy;
+package hackerrank.moraxtreme;
 
 import java.util.*;
 

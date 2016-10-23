@@ -1,6 +1,5 @@
-package hackerrank.moraxtreme.easy;
+package hackerrank.moraxtreme;
 
-import java.awt.*;
 import java.util.*;
 
 public class LazyPleas {
