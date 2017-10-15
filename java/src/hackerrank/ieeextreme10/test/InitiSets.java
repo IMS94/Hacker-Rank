@@ -68,6 +68,6 @@ public class InitiSets {
     }
 
     public static void main(String[] args) {
-        new InitiSets().solve();
+                new InitiSets().solve();
     }
 }
